@@ -6,12 +6,8 @@ public class Firssclass {
 
         {
             {
-                 /*
-        Сейчас мы выведем на экран фразу 'Nastena Is The Best'
-        */
                 System.out.print("Nastena ");
-                System.out.print("Is ");
-                System.out.print("The ");
+                System.out.print("The "); //приветик,как дела?
                 System.out.print("Best");
 
             }
