@@ -3,9 +3,11 @@ package com;
 public class Firssclass {
 
     public static void main(String[] args) throws java.lang.Exception {
-        System.out.println("Nastena");
-        System.out.println("The");
-        System.out.println("Best");
 
-    }
-}
+        {
+            System.out.print("Nastena ");
+            System.out.print("The ");
+            System.out.print("Best");
+
+        }
+    }}
