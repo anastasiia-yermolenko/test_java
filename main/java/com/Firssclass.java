@@ -6,9 +6,17 @@ public class Firssclass {
 
         {
             {
-                System.out.print("Nastena ");
-                System.out.print("The "); //приветик,как дела?
-                System.out.print("Best");
+                int x = 2;
+                int y = 12;
+
+                // y = x * y;
+                y = x + y;
+
+                x = y - x;
+                y = y - x;
+
+                System.out.println(x);
+                System.out.println(y);
 
             }
         }
